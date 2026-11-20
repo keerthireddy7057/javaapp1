@@ -1,0 +1,13 @@
+list
+add | B101 | The Hobbit
+add | B101 | Duplicate title
+register | M01 | Asha Rao
+register | M02 | Dev Shah
+borrow | B101 | M99
+borrow | B101 | M01
+list
+borrow | B101 | M02
+return | B101 | M02
+return | B101 | M01
+list
+exit
